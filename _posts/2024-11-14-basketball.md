@@ -5,7 +5,7 @@ date:   2024-11-14 20:00 -0500
 categories: jekyll update
 ---
 
-After my favorite season of the year (football) is over, I also like to dabble in watching a little bit of basketball!
+After my favorite season of the year (football) is done, I also like to dabble in watching a little bit of basketball!
 
 **Believe it or not** I actually used to play basketball in high school! I was the sixth man for our team and I purely came on to play <mark>defense</mark>. I didn't have a dangerous skillset on offense which probably cost me a *LOT* of playing time! 
 
