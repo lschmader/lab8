@@ -15,7 +15,7 @@ Table of Contents
 
 
 
-Hello there! My name is Landon Schmader and I am one avid sports fan from a small town in Western Pennsylvania!
+Hello there everyone! My name is Landon Schmader and I am one avid sports fan from a small town in Western Pennsylvania!
 
 This site is solely dedicated into trying to express my different opinions and thoughts about the three major sports in the world! football (the American kind), basketball, and baseball. I also take some time to ramble on about my past athletic career as well, even though I never made it to the collegiate level in any of these sports. **I am a college runner by the way.** 
 
