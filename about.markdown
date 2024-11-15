@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello there! My name is Landon Schmader and I am one avid sports fan from a small town in Western Pennsylvania!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This site is solely dedicated into trying to express my different opinions and thoughts about the three major sports in the world! football (the American kind), basketball, and baseball. I also take some time to ramble on about my past athletic career as well, even though I never made it to the collegiate level in any of these sports. **I am a college runner by the way.** 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In my site, I detail my love for the Steelers, college basketball, and the Pittsburgh Pirates (that is a tough relationship to be honest.) There is also a lot of other great sports jargon in there so I hope you take a look at all of my posts!
 
+Hope you enjoy:)! 
 
-[jekyll-organization]: https://github.com/jekyll
